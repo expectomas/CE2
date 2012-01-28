@@ -7,7 +7,6 @@ public:
 	std::string name;
 	int satisfaction;
 	double price;
-	double costOverWeight;
 };	
 
 #endif
